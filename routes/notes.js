@@ -32,7 +32,7 @@ notes.post("/notes", (req, res) => {
   }
 });
 
-module.exports = notes;
+
 
 notes.delete("/notes/:id", (req, res) => {
   console.info(`${req.method} request received to remove a note`);
@@ -54,3 +54,4 @@ notes.delete("/notes/:id", (req, res) => {
     }
   });
 });
+module.exports = notes;
