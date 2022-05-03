@@ -17,4 +17,8 @@ Application for any user to be able store and delete notes whenever they see fit
 
  ## Links
  
+ Github: https://github.com/BerjGhazarian/Note-Taker
  
+ Heroku: https://sleepy-refuge-09004.herokuapp.com/
+
+
